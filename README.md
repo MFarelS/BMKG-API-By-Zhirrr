@@ -7,7 +7,7 @@ Api BMKG FULL
 
 https://bmkg-api.zhirrr.repl.co/api/cuaca  <== Cuaca Random Seluruh Provinsi Indonesia
 
-https://bmkg-api.zhirrr.repl.co/api/cuaca/[Nama Provinsi]  <== Mencari Data Cuaca Dengan Nama Provinsi
+https://bmkg-api.zhirrr.repl.co/api/cuaca/[namaprovinsi]  <== Mencari Data Cuaca Dengan Nama Provinsi
 
 https://bmkg-api.zhirrr.repl.co/api/cuaca/dunia <== Mencari Data Cuaca Seluruh Dunia
 
