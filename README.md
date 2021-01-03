@@ -26,3 +26,7 @@ https://bmkg-api.zhirrr.repl.co/api/tsunami  <== Mencari Data Tsunami Di Seluruh
 https://bmkg-api.zhirrr.repl.co/api/gempa/terkini <== Mencari Data Gempa Terkini Di Seluruh Indonesia
 
 https://bmkg-api.zhirrr.repl.co/api/gempa/dirasakan <== Mencari Data Dimana Tempat Gempa Terasa Diseluruh Indonesia
+
+# Code Source
+You Need The Code Source Of This API ? DM And Follow My Instagram : @zhirr_ajalah
+I Will Give You The Code Source Free !
